@@ -1,6 +1,6 @@
 ---
 layout: layouts/article.njk
-image: https://www.facebook.com/photo/?fbid=1052300744450408&set=a.633389523008201
+image: /images/uploads/784083225_1454978823352730_1410867117812834702_n-1-.jpg
 title: Pulis tinaga ng baliw, putol kamay
 dek: Isang pulis --- si Staff Sgt. Noli Miraña --- ang naputol ang kaliwang
   kamay ng mataga na isang lalaking lasing na nagwalala na sinubukan niya at ng
