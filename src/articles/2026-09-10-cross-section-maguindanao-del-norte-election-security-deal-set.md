@@ -4,7 +4,7 @@ image: /images/uploads/800448737_1845285636441339_7948201900707943351_n.jpg
 title: Cross-section Maguindanao del Norte election security deal set
 dek: >-
   
-  PHOTO: Army Brig. Gen. Ricky Bunayog affixed his signature to the multi-sector, inter-agency Maguindanao del Norte election peace and security cooperation deal, printed on a tarpaulin, while Gov. Tucao Mastura looks on.
+  Army Brig. Gen. Ricky Bunayog affixed his signature to the multi-sector, inter-agency Maguindanao del Norte election peace and security cooperation deal, printed on a tarpaulin, while Gov. Tucao Mastura looks on.
 location: COTABATO CITY
 date: 2026-09-11T05:50:00.000+08:00
 ---
