@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/admin");
   return {
-    pathPrefix: "/news-worth-reading/",
+    pathPrefix: "/",
     dir: {
       input: "src",
       includes: "_includes",
