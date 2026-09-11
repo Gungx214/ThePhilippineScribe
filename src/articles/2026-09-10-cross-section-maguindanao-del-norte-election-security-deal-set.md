@@ -10,7 +10,7 @@ date: 2026-09-11T05:50:00.000+08:00
 ---
 Army and police officials, representatives from the Commission on Elections and other state agencies and local executives crafted a compact on Wednesday, September 9,binding them to help ensure peaceful Bangsamoro parliamentary polls in Maguindanao del Norte on September 14.
 
-There are election hotspots in Maguindanao del Norte’s 12 towns, some of which are locked in bloody familyfeuds, called “rido” in the local vernaculars, involving big Moro clans that have members who are elected municipal and barangay officials known for keeping firearms both for protection and as status symbol.
+There are election hotspots in Maguindanao del Norte’s 12 towns, some of which are locked in bloody family feuds, called “rido” in the local vernaculars, involving big Moro clans that have members who are elected municipal and barangay officials known for keeping firearms both for protection and as status symbol.
 
 The election security cooperation agreement was reached after a four-hour dialogue on Wednesday at Camp Siong coin Barangay Awang in Datu Odin Sinsuat, Maguindanao del Norte, where the headquarters of the Army’s 6th Infantry Division is located.
 
