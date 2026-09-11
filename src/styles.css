@@ -273,7 +273,7 @@
     color:#000;
   }
 
- .article-hero-img{
+  .article-hero-img{
     width:100%;
     max-width:720px;
     height:auto;
@@ -299,7 +299,7 @@
     line-height:1.75;
     color:#000;
   }
-  .article-body p{margin-bottom:22px;}
+  .article-body p{margin-bottom:22px; text-align:justify;}
   .article-body p:first-of-type::first-letter{
     font-size:64px;
     font-weight:600;
@@ -317,6 +317,13 @@
     border-left:3px solid var(--gold);
     padding:4px 0 4px 26px;
     margin:36px 0;
+  }
+  .publish-stamp{
+    font-family:var(--font-mono);
+    font-size:13px;
+    color:#000;
+    text-align:left;
+    margin-top:-8px;
   }
 
   @media(max-width:760px){
