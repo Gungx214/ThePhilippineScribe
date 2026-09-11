@@ -10,6 +10,9 @@ module.exports = function(eleventyConfig) {
       timeZone: "UTC"
     });
   });
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    return new Date(dateObj).toISOString().split("T")[0];
+  });
   eleventyConfig.addPassthroughCopy("src/styles.css");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/admin");
