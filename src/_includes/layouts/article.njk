@@ -17,4 +17,5 @@ layout: layouts/base.njk
 <p class="article-summary">{{ dek }}</p>
 <div class="article-body">
 {{ content | safe }}
+<p class="publish-stamp">({{ date | displayDate | upper }})</p>
 </div>
