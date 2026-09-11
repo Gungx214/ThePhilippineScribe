@@ -1,4 +1,8 @@
+const markdownIt = require("markdown-it");
+
 module.exports = function(eleventyConfig) {
+  eleventyConfig.setLibrary("md", markdownIt({ html: true, breaks: true }));
+
   eleventyConfig.addCollection("articles", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/articles/*.md").reverse();
   });
