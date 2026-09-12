@@ -5,10 +5,10 @@ title: Cross-section Maguindanao del Norte election security deal set
 dek: >-
   
   Army Brig. Gen. Ricky Bunayog affixed his signature to the multi-sector, inter-agency Maguindanao del Norte election peace and security cooperation deal, printed on a tarpaulin, while Gov. Tucao Mastura looks on.
-location: COTABATO CITY
+location: ㅤ
 date: 2026-09-11T05:50:00.000+08:00
 ---
-Army and police officials, representatives from the Commission on Elections and other state agencies and local executives crafted a compact on Wednesday, September 9,binding them to help ensure peaceful Bangsamoro parliamentary polls in Maguindanao del Norte on September 14.
+COTABATO CITY ---- Army and police officials, representatives from the Commission on Elections and other state agencies and local executives crafted a compact on Wednesday, September 9,binding them to help ensure peaceful Bangsamoro parliamentary polls in Maguindanao del Norte on September 14.
 
 There are election hotspots in Maguindanao del Norte’s 12 towns, some of which are locked in bloody family feuds, called “rido” in the local vernaculars, involving big Moro clans that have members who are elected municipal and barangay officials known for keeping firearms both for protection and as status symbol.
 
