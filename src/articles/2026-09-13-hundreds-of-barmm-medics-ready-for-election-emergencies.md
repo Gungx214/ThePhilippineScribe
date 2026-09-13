@@ -8,7 +8,7 @@ dek: The emergency response equipment of the Bangsamoro government is now on
 location: Cotabato City
 date: 2026-09-13T22:27:00.000+08:00
 ---
-COTABATO CITY, Philippines (September 13, 2026) --- Two entities of the Bangsamoro government have mobilized hundreds of rapid response personnel for possible emergencies during the autonomous region’s first ever regional parliamentary polls on Monday, September 14.
+COTABATO CITY, Philippines --- Two entities of the Bangsamoro government have mobilized hundreds of rapid response personnel for possible emergencies during the autonomous region’s first ever regional parliamentary polls on Monday, September 14.
 
 Personnel of the Ministry of Health-Bangsamoro Autonomous Region in Muslim Mindanao and the Bangsamoro Rapid Emergency Action on Disaster Incidence, most known as the Bangsamoro READi, are on duty since Saturday as part of the regional government’s preparations for Monday’s electoral exercise.
 
