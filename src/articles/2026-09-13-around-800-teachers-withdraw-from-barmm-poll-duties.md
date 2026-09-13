@@ -9,7 +9,7 @@ dek: Policemen guard a stretch of a strategic thoroughfare in Cotabato City as
 location: COTABATO CITY
 date: 2026-09-13T22:22:00.000+08:00
 ---
-COTABATO CITY, Philippines (September 13, 2026) --- Apprehensive of possible hostilities, some 800 teachers in the Bangsamoro region had reportedly withdrawn from their supposed September 14 election duties in school campuses in politically-hostile areas in the Bangsamoro region.
+COTABATO CITY, Philippines --- Apprehensive of possible hostilities, some 800 teachers in the Bangsamoro region had reportedly withdrawn from their supposed September 14 election duties in school campuses in politically-hostile areas in the Bangsamoro region.
 
 The Catholic radio station DXMS in Cotabato City reported on Sunday that Chairman George Erwin Garcia of the Commission on Elections, no less, confirmed that among the teachers who balked from performing election duties on Monday are based in the provinces of Lanao del Sur, Tawi-Tawi and Maguindanao del Sur, in the Bangsamoro Special Geographic Area and in Cotabato City, the capital of the autonomous region.
 
