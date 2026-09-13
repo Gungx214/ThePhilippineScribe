@@ -5,7 +5,7 @@ title: Hundreds of BARMM medics ready for election emergencies
 dek: The emergency response equipment of the Bangsamoro government is now on
   standby at the region's capitol in Cotabato City, ready for deployment
   anytime.
-location: DAVAO CITY
+location: Cotabato City
 date: 2026-09-13T22:27:00.000+08:00
 ---
 COTABATO CITY, Philippines (September 13, 2026) --- Two entities of the Bangsamoro government have mobilized hundreds of rapid response personnel for possible emergencies during the autonomous region’s first ever regional parliamentary polls on Monday, September 14.
