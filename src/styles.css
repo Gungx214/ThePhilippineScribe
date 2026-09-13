@@ -269,7 +269,8 @@
     border-bottom:1px solid var(--line);
     padding:12px 0;
     font-family:var(--font-mono);
-    font-size:19px;
+    font-size:26px;
+    font-weight:700;
     color:#000;
   }
 
