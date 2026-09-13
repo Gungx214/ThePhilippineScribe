@@ -19,7 +19,7 @@ title: The Philippine Scribe
       <p class="dek">{{ hero.data.dek }}</p>
     </a>
     <div class="hero-side">
-      <div class="hero-side-label">Older News</div>
+      <div class="hero-side-label">Latest</div>
       {% for item in articles.slice(1, 4) %}
       <a class="side-item" href="{{ item.url | url }}">
         {% if item.data.image %}
@@ -34,7 +34,7 @@ title: The Philippine Scribe
     </div>
   </div>
   {% if articles.length > 4 %}
-  <div class="section-label">Latest</div>
+  <div class="-label">Older News</div>
   <div class="grid">
     {% for item in articles.slice(4) %}
     <a class="card" href="{{ item.url | url }}">
