@@ -3,7 +3,7 @@ layout: layouts/article.njk
 image: /images/uploads/322.jpg
 title: Villager hurt in explosion seemingly related to BARMM polls
 dek: The villager seriously hurt in the blast is now confined to the Cotabato
-  Regional Medical Center, in very critical condition
+  Regional Medical Center, in very critical condition.
 location: COTABATO CITY
 date: 2026-09-13T23:24:00.000+08:00
 ---
