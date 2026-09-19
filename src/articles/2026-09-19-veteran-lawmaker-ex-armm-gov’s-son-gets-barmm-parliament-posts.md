@@ -5,10 +5,10 @@ title: Veteran lawmaker, ex-ARMM gov’s son gets BARMM parliament posts
 dek: The newly elected Bangsamoro parliament members Datu Bimbo Sinsuat (right)
   and Maroup Candao are both scions of big clans in Maguindanao del Norte
   province.
-location: Maguindanao del Norte province.
+location: COTABATO CITY
 date: 2026-09-19T12:49:00.000+08:00
 ---
-A veteran regional lawmaker and the son of the pioneer governor of the now defunct Autonomous Region in Muslim Mindanao were elected as members of the 80-seat regional parliament during the September 14 elections in the now seven-year Bangsamoro Autonomous Region in Muslim Mindanao.
+COTABATO CITY --- A veteran regional lawmaker and the son of the pioneer governor of the now defunct Autonomous Region in Muslim Mindanao were elected as members of the 80-seat regional parliament during the September 14 elections in the now seven-year Bangsamoro Autonomous Region in Muslim Mindanao.
 
 More than 10 regional political parties participated in the first ever September 14 parliamentary elections in the BARMM, whose territory encompasses five provinces, Maguindanao del Sur, Maguindanao del Norte, Lanao del Sur, Basilan and Tawi-Tawi, and the cities of Lamitan, Marawi and Cotabato, the region's capital.
 
