@@ -1,7 +1,7 @@
 ---
 layout: layouts/article.njk
 image: /images/uploads/814660188_1101389912837506_5091373674120278811_n.jpg
-title: Veteran lawmaker, ex-ARMM gov’s son gets BARMM parliament posts
+title: Veteran lawmaker, ex-ARMM governor’s son gets BARMM parliament posts
 dek: The newly elected Bangsamoro parliament members Datu Bimbo Sinsuat (right)
   and Maroup Candao are both scions of big clans in Maguindanao del Norte
   province.
