@@ -6,6 +6,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("articles", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/articles/*.md").reverse();
   });
+
   eleventyConfig.addFilter("displayDate", (dateObj) => {
     return new Date(dateObj).toLocaleDateString("en-US", {
       year: "numeric",
@@ -13,18 +14,21 @@ module.exports = function(eleventyConfig) {
       day: "numeric",
       timeZone: "UTC"
     });
- });
+  });
+
   eleventyConfig.addFilter("isoDate", (dateObj) => {
     return new Date(dateObj).toISOString().split("T")[0];
   });
 
+  // URL encoding filter for social sharing links
   eleventyConfig.addFilter("urlencode", (str) => {
     return encodeURIComponent(str);
   });
-  
+
   eleventyConfig.addPassthroughCopy("src/styles.css");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/admin");
+
   return {
     pathPrefix: "/",
     dir: {
