@@ -13,10 +13,15 @@ module.exports = function(eleventyConfig) {
       day: "numeric",
       timeZone: "UTC"
     });
-  });
+ });
   eleventyConfig.addFilter("isoDate", (dateObj) => {
     return new Date(dateObj).toISOString().split("T")[0];
   });
+
+  eleventyConfig.addFilter("urlencode", (str) => {
+    return encodeURIComponent(str);
+  });
+  
   eleventyConfig.addPassthroughCopy("src/styles.css");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/admin");
