@@ -20,7 +20,7 @@ A Blaan community leader, Bae Lolita Puli, told reporters on Tuesday that she an
 
 She said they learned from the workshop the importance of trading cooperation among entrepreneurs to maximize earnings and how to improve the marketability of their merchandise that they circulate in Barangay Tablu and in nearby areas. 
 
-“We appreciate a lot the efforts of the SMI and other entities that cooperated in facilitating the workshop,” Puli, one of the Blaan community in Barangay Tablu, said.
+“We appreciate a lot the efforts of the SMI and other entities that cooperated in facilitating the workshop,” Ms. Puli, one of the Blaan community leaders in Barangay Tablu, said.
 
 South Cotabato Gov. Reynaldo Tamayo, Jr., said on Tuesday that he is grateful to the SMI for embarking on the activity, which augurs well with the efforts of his office to improve the business climate in Tampakan as part their campaign to sustain the peace now spreading around the municipality, long cleared jointly by the police and military from presence of the New People’s Army.
 
