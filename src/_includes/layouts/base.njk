@@ -3,51 +3,76 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>{{ title or "The Philippine Scribe" }}</title>
+
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ title or 'The Philippine Scribe' }}">
 <meta property="og:description" content="{{ dek or 'Latest news update from The Philippine Scribe' }}">
+
 {% if image %}
   <meta property="og:image" content="https://thephilippinescribe.com{{ image | url }}">
 {% elif collections.articles and collections.articles.length > 0 and collections.articles[0].data.image %}
   <meta property="og:image" content="https://thephilippinescribe.com{{ collections.articles[0].data.image | url }}">
 {% endif %}
+
 <meta property="og:url" content="https://thephilippinescribe.com{{ page.url | url }}">
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ title or 'The Philippine Scribe' }}">
 <meta name="twitter:description" content="{{ dek or 'Latest news update from The Philippine Scribe' }}">
+
 {% if image %}
   <meta name="twitter:image" content="https://thephilippinescribe.com{{ image | url }}">
 {% elif collections.articles and collections.articles.length > 0 and collections.articles[0].data.image %}
   <meta name="twitter:image" content="https://thephilippinescribe.com{{ collections.articles[0].data.image | url }}">
 {% endif %}
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
+
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Archivo+Black&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
 <link rel="stylesheet" href="{{ '/styles.css' | url }}">
+
 </head>
+
 <body>
+
 <div class="masthead">
   <span>VOL. 1 — SIMPLE EDITION</span>
   <span class="live" id="clock">00:00</span>
 </div>
+
 <div class="nav">
   <div class="nav-inner">
     <a class="logo" href="{{ '/' | url }}">The Philippine Scribe</a>
   </div>
 </div>
+
 <main>
-{{ content | safe }}
+  {{ content | safe }}
 </main>
-<footer>THE PHILIPPINE SCRIBE</footer>
+
+<footer>
+  THE PHILIPPINE SCRIBE
+</footer>
+
 <script>
   function updateClock(){
     const now = new Date();
     const h = String(now.getHours()).padStart(2,'0');
     const m = String(now.getMinutes()).padStart(2,'0');
-    document.getElementById('clock').textContent = `${h}:${m}`;
+
+    const clock = document.getElementById('clock');
+
+    if (clock) {
+      clock.textContent = `${h}:${m}`;
+    }
   }
+
   updateClock();
   setInterval(updateClock, 30000);
 </script>
+
 </body>
 </html>
