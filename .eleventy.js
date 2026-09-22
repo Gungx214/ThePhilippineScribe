@@ -1,10 +1,19 @@
 const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.setLibrary("md", markdownIt({ html: true, breaks: true }));
+
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt({
+      html: true,
+      breaks: true
+    })
+  );
 
   eleventyConfig.addCollection("articles", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/articles/*.md").reverse();
+    return collectionApi
+      .getFilteredByGlob("src/articles/*.md")
+      .reverse();
   });
 
   eleventyConfig.addFilter("displayDate", (dateObj) => {
@@ -20,7 +29,6 @@ module.exports = function(eleventyConfig) {
     return new Date(dateObj).toISOString().split("T")[0];
   });
 
-  // URL encoding filter for social sharing links
   eleventyConfig.addFilter("urlencode", (str) => {
     return encodeURIComponent(str);
   });
@@ -31,6 +39,7 @@ module.exports = function(eleventyConfig) {
 
   return {
     pathPrefix: "/",
+
     dir: {
       input: "src",
       includes: "_includes",
