@@ -1,17 +1,21 @@
-
 ---
 layout: layouts/base.njk
 ---
+
+{% set articleUrl = 'https://thephilippinescribe.com' + (page.url | url) %}
 
 <div class="back-link">
   <a href="{{ '/' | url }}">&larr; Back to headlines</a>
 </div>
 
 <div class="article-header">
+
   <h1>{{ title }}</h1>
+
   <div class="article-meta">
     <span>{{ date | displayDate }}</span>
   </div>
+
 </div>
 
 {% if image %}
@@ -25,12 +29,11 @@ layout: layouts/base.njk
 <p class="article-summary">{{ dek }}</p>
 
 <div class="article-body">
-  {{ content | safe }}
+{{ content | safe }}
 </div>
 
-{% set articleUrl = 'https://thephilippinescribe.com' + page.url %}
-
 <div class="share-bar">
+
   <span class="share-label">Share this article</span>
 
   <button class="share-btn copy-link" data-url="{{ articleUrl }}">
@@ -41,8 +44,7 @@ layout: layouts/base.njk
     class="share-btn share-fb"
     href="https://www.facebook.com/sharer/sharer.php?u={{ articleUrl | urlencode }}"
     target="_blank"
-    rel="noopener"
-  >
+    rel="noopener">
     Facebook
   </a>
 
@@ -50,23 +52,30 @@ layout: layouts/base.njk
     class="share-btn share-x"
     href="https://twitter.com/intent/tweet?url={{ articleUrl | urlencode }}&text={{ title | urlencode }}"
     target="_blank"
-    rel="noopener"
-  >
+    rel="noopener">
     X
   </a>
+
 </div>
 
 <script>
   document.querySelectorAll('.copy-link').forEach(function(btn) {
+
     btn.addEventListener('click', function() {
+
       navigator.clipboard.writeText(btn.dataset.url).then(function() {
+
         var original = btn.textContent;
+
         btn.textContent = 'Copied!';
 
         setTimeout(function() {
           btn.textContent = original;
         }, 1500);
+
       });
+
     });
+
   });
 </script>
