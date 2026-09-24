@@ -4,10 +4,10 @@ image: /images/uploads/814728491_1776624924000434_7812934855392990328_n.jpg
 title: Islamic group supports peace goals of elected Basilan BARMM lawmakers
 dek: The local government center of Lamitan City, from where the provincial
   capitol of Basilan is only less than 20 kilometers away.
-location: ISABELA CITY, Basilan, Philippines
+location: BASILAN, Philippines
 date: 2026-09-24T20:21:00.000+08:00
 ---
-ISABELA CITY, Basilan, Philippines --- The influential Darul Ifta in Basilan had assured of support for eight leaders in the province elected as members of the Bangsamoro parliament during the September 14 elections in the autonomous region.
+BASILAN, Philippines --- The influential Darul Ifta in Basilan had assured of support for eight leaders in the province elected as members of the Bangsamoro parliament during the September 14 elections in the autonomous region.
 
 The Basilan Darul Ifta, also known as the provincial Islamic House of Opinions, is a confluence of preachers together functioning as religious counsels to local Muslim communities. It also has counterparts in the four other provinces of the Bangsamoro Autonomous Region in Muslim Mindanao, Maguindanao del Norte, Maguindanao del Sur, Lanao del Sur and Tawi-Tawi, and in the three cities in BARMM, Lamitan, Marawi and Cotabato.
 
