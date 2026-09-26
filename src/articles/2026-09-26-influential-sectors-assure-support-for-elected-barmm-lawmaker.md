@@ -10,7 +10,7 @@ dek: Amir Mawalil (second from right) was proclaimed as elected member of the
 location: COTABATO CITY
 date: 2026-09-26T08:12:00.000+08:00
 ---
-COTABATO CITY --- A newly-elected member of the Bangsamoro parliament, who is among the six nominees to represent their political party in the lawmaking body, had been assured by youth leaders and artists in the autonomous region of their support for his peacebuilding and development initiatives as a regional lawmaker.
+**COTABATO CITY** --- A newly-elected member of the Bangsamoro parliament, who is among the six nominees to represent their political party in the lawmaking body, had been assured by youth leaders and artists in the autonomous region of their support for his peacebuilding and development initiatives as a regional lawmaker.
 
 Amir Mawallil, newly-elected member of the 80-seat Bangsamoro parliament, whose peace, security and community-empowerment initiatives as a lawmaker they are to help push forward, is no stranger to regional governance, having served as director of the media affairs bureau of the now defunct Autonomous Region in Muslim Mindanao for a number of years. 
 
