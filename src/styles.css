@@ -311,20 +311,12 @@
   .article-body{
     max-width:720px;
     margin:0 auto;
-    font-family:var(--font-serif);
+    font-family:Arial, Helvetica, -apple-system, sans-serif;
     font-size:19px;
     line-height:1.75;
     color:#000;
   }
   .article-body p{margin-bottom:22px; text-align:justify;}
-  .article-body p:first-of-type::first-letter{
-    font-size:64px;
-    font-weight:600;
-    float:left;
-    line-height:0.85;
-    padding:6px 8px 0 0;
-    color:#000;
-  }
   .pullquote{
     font-family:var(--font-serif);
     font-style:italic;
