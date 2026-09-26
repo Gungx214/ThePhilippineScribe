@@ -49,6 +49,7 @@
   </div>
 {% endif %}
 
+<div id="older-news-section">
 {% if olderArticles.length > 0 %}
 <div class="section-label">Older News</div>
 <div class="grid">
@@ -59,6 +60,7 @@
     {% else %}
       <div class="card-img"></div>
     {% endif %}
+    <div class="dateline">{{ item.data.location }} — {{ item.data.date | displayDate }}</div>
     <h3>{{ item.data.title }}</h3>
     <p>{{ item.data.dek }}</p>
   </a>
@@ -66,11 +68,46 @@
 </div>
 
 <div class="pagination-nav">
-  {% if pagination.href.previous %}
-    <a class="page-link" href="{{ pagination.href.previous }}">&larr; Newer</a>
-  {% endif %}
-  {% if pagination.href.next %}
-    <a class="page-link" href="{{ pagination.href.next }}">Older &rarr;</a>
-  {% endif %}
+  {% for href in pagination.hrefs %}
+    <a class="page-link{% if loop.index0 == pagination.pageNumber %} active{% endif %}" href="{{ href }}">{{ loop.index }}</a>
+  {% endfor %}
 </div>
 {% endif %}
+</div>
+
+<script>
+(function(){
+  var container = document.getElementById('older-news-section');
+  if(!container) return;
+
+  function loadPage(url, pushState){
+    fetch(url)
+      .then(function(res){ return res.text(); })
+      .then(function(html){
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+        var newSection = doc.getElementById('older-news-section');
+        if(newSection){
+          container.innerHTML = newSection.innerHTML;
+        }
+        if(pushState){
+          history.pushState({}, '', url);
+        }
+      })
+      .catch(function(){
+        window.location.href = url;
+      });
+  }
+
+  container.addEventListener('click', function(e){
+    var link = e.target.closest('.page-link');
+    if(!link) return;
+    e.preventDefault();
+    loadPage(link.getAttribute('href'), true);
+  });
+
+  window.addEventListener('popstate', function(){
+    loadPage(window.location.href, false);
+  });
+})();
+</script>
