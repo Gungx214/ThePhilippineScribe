@@ -398,3 +398,26 @@
   .share-btn.share-x:hover{
     background:#222;
   }
+
+  /* =====================================================
+     PAGINATION
+     Added for Older News, 3 per page
+     ===================================================== */
+
+  .pagination-nav{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:50px;
+  }
+  .page-link{
+    font-family:var(--font-mono);
+    font-size:13px;
+    font-weight:600;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    padding:10px 20px;
+    border:1px solid var(--line-strong);
+    border-radius:4px;
+    background:var(--paper-white);
+  }
+  .page-link:hover{background:var(--paper);}
