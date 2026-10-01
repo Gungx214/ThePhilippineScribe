@@ -1,7 +1,7 @@
 ---
 layout: layouts/article.njk
 image: /images/uploads/825260208_28599436213083205_7023327685190729778_n.jpg
-title: "13:05 What seemed a gunshot, but wasn’t gunshot caused panic in school "
+title: What seemed a gunshot, but wasn’t, caused panic in school
 dek: Police personnel and civilian medics who responded to the incident have
   confirmed that there was no shooting incident, whatsoever, in the campus of
   the Isulan National High School in Isulan, Sultan Kudarat
