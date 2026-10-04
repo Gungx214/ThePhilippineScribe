@@ -13,7 +13,7 @@ date: 2026-10-04T11:02:00.000+08:00
 
 The four regional lawmakers elected during the September 14 Bangsamoro parliamentary elections they are referring to, Jay Datumanong Salliman of Basilan, Ma-arouph Bajunaid Candao, Zulfikar-Ali Sergio Bayam and Ishak Veloso Mastura, all from big and influential clans in the adjoining Cotabato City and Maguindanao del Norte province, took oath as members of the region’s 80-member parliament at the Supreme Court in Manila on Saturday, October 3. 
 
-The symbolic rite, led by BARMM's interim chief minister, Abdulraof Abdul Macacua, also elected last February 14 as representative of a parliamentary district covering barangays in Cotabato City and in Maguindanao del Norte, was administered by Supreme Court Associate Justice Japar Dimaampao, who hails from Lanao del Sur province.
+The symbolic rite, led by BARMM's interim chief minister, Abdulraof Abdul Macacua, also elected last September 14 as representative of a parliamentary district covering barangays in Cotabato City and in Maguindanao del Norte, was administered by Supreme Court Associate Justice Japar Dimaampao, who hails from Lanao del Sur province.
 
 All four of them --- Salliman, Candao, Bayam and Mastura --- belong to the Bangsamoro Federalist Party (BFP) that now has combined 32 elected parliamentary district and party bloc representatives to the regional parliament of the Bangsamoro Autonomous Region in Muslim Mindanao. 
 
