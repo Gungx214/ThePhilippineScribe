@@ -4,7 +4,7 @@ image: /images/uploads/833935031_1103640885692422_7838094103489561803_n.jpg
 title: MSU-Maguindanao, Islamic bank together in education efforts
 dek: Signatories show the education and development cooperation agreement they
   signed during a symbolic rite at the campus of the Mindanao State
-  University-Maguindanao during a symbolic rite on Monday, October 5, 2026.
+  University-Maguindanao.
 location: Cotabato City
 date: 2026-10-07T13:00:00.000+08:00
 ---
