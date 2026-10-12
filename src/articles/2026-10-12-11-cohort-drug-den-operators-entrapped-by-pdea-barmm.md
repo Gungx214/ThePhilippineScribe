@@ -8,7 +8,7 @@ dek: The 11 shabu peddlers entrapped by anti-narcotics agents in Mangudadatu,
 location: Cotabato City
 date: 2026-10-12T08:03:00.000+08:00
 ---
-COTABATO CITY --- Anti-narcotics agents entrapped 11 cohort shabu dealers, linked to remnants of two now defunct southern terror groups, in an operation on Friday, October 9, in Barangay Tumbao in Mangudadatu town in Maguindanao del Sur. 
+**COTABATO CITY** --- Anti-narcotics agents entrapped 11 cohort shabu dealers, linked to remnants of two now defunct southern terror groups, in an operation on Friday, October 9, in Barangay Tumbao in Mangudadatu town in Maguindanao del Sur. 
 
 Local executives and Moro datus in Mangudadatu told reporters on Saturday that besides their shabu and marijuana peddling activities, the now detained suspects, Bati Salendab, Samrod Timpolok, Kevin Timpolok, Bryan Daud Uyag, Tundatu Betol, Rudy Anta, Bando Silongan, Mark Cadel, Jimmy Uyag, Datu Puti Amino and Boren Mangandog, also connived in operating a drug den at one spot in Barangay Tumbao. 
 
