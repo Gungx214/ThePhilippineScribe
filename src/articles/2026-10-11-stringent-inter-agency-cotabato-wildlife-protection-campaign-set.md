@@ -10,7 +10,7 @@ dek: The office of Cotabato Gov. Emmylou Taliño-Mendoza has intensified its
 location: Cotabato City
 date: 2026-10-11T08:47:00.000+08:00
 ---
-COTABATO CITY, Philippines --- The provincial governor’s office in Cotabato, the Department of Environment and Natural Resources 12, and the police have fused ranks for a common, extensive wildlife protection thrust in all towns in the province and in its capital, Kidapawan City.
+**COTABATO CITY, Philippines** --- The provincial governor’s office in Cotabato, the Department of Environment and Natural Resources 12, and the police have fused ranks for a common, extensive wildlife protection thrust in all towns in the province and in its capital, Kidapawan City.
 
 Radio reports on Saturday, October 10, stated that representatives from the DENR-12, the Cotabato Provincial Police Office and planning and research experts under the office of Gov. Emmylou Taliño-Mendoza met on Wednesday in Kidapawan City and agreed then to cooperate in enforcing extensively in the province the Republic Act Republic Act 9147, also known as the Wildlife Resources Conservation and Protection Act of 2001.
 
