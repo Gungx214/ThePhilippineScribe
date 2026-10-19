@@ -11,7 +11,7 @@ date: 2026-10-20T07:12:00.000+08:00
 
 The spate of the seemingly unending killings of ethnic Teduray community leaders had markedly escalated despite the Bangsamoro regional government having its Ministry of Indigenous People’s Affairs since 2019, tasked to ensure the welfare and protection of all non-Moro indigenous communities in the autonomous region.  
 
-Tribal leaders and Teduray employees of different agencies in the Bangsamoro Autonomous Region in Muslim Mindanao and officials of police units in Maguindanao del Sur and in the Army's 6th Infantry Division separately told reporters on Monday the Joel Mactud, a known peace advocate, died instantly in an attack last Saturday by gunmen at a stretch of a highway in Datu Hoffer, Maguindanao del Sur.
+Tribal leaders and Teduray employees of different agencies in the Bangsamoro Autonomous Region in Muslim Mindanao and officials of police units in Maguindanao del Sur and in the Army's 6th Infantry Division separately told reporters on Monday that Joel Mactud, a known peace advocate, died instantly in an attack last Saturday by gunmen at a stretch of a highway in Datu Hoffer, Maguindanao del Su
 
 Mactud and his three male tribemates were riding separate motorcycles, on their way to home to the hinterland Barangay Mantao in Datu Hoffer from Upi, Maguindanao del Norte, when he was attacked by gunmen at a secluded stretch of their route, killing him instantly.
 
