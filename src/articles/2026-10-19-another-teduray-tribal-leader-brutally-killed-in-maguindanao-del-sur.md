@@ -17,7 +17,7 @@ Mactud and his three male tribemates were riding separate motorcycles, on their 
 
 The killers of Mactud, also a member of the barangay council in Mantao, escaped using getaway motorcycles, leaving him sprawled on the road, lifeless.
 
-Peace-advocacy groups of Tedurays in Maguindanao del Sur, Maguindanao del Norte and in Cotabato City, which is the regional capital of BARMM, had separately urged local executives in the adjoining Datu Hoffer, Datu Unsay Ampatuan, Datu Saudi Ampatuan and Shariff Aguak towns towns, the officials of the Police Regional Office-Bangsamoro Autonomous Region and the Army’s 6th th Infantry Division work together in putting a closure to the brutal murder of Mactud.
+Peace-advocacy groups of Tedurays in Maguindanao del Sur, Maguindanao del Norte and in Cotabato City, which is the regional capital of BARMM, had separately urged local executives in the adjoining Datu Hoffer, Datu Unsay Ampatuan, Datu Saudi Ampatuan and Shariff Aguak towns towns, the officials of the Police Regional Office-Bangsamoro Autonomous Region and the Army’s 6th Infantry Division work together in putting a closure to the brutal murder of Mactud.
 
 Mactud was active in programs promoting cultural and religious solidarity among the culturally-diverse Moro and the ethnic Teduray communities in Datu Hoffer where their tribe has state-recognized ancestral domains.
 
