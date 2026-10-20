@@ -8,7 +8,7 @@ dek: The shabu trafficker (right) who fell in a joint sting by the Philippine
 location: Cotabato City
 date: 2026-10-20T19:00:00.000+08:00
 ---
-COTABATO CITY --- Anti-narcotics agents clamped down on Monday another shabu dealer, circulating his illegal merchandise in residential areas in Kidapawan City, in an operation laid with the help of his former patrons who had reformed for good.
+**COTABATO CITY** --- Anti-narcotics agents clamped down on Monday another shabu dealer, circulating his illegal merchandise in residential areas in Kidapawan City, in an operation laid with the help of his former patrons who had reformed for good.
 
 Charlene Magdurulang, director of the Philippine Drug Enforcement Agency 12, told reporters on Tuesday that the 38-year-old male suspect is now detained, to be prosecuted for violation of the Comprehensive Dangerous Drugs Act of 2002.
 
