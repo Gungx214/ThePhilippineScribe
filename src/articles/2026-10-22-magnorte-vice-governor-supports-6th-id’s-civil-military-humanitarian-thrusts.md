@@ -27,4 +27,4 @@ Gumiran had served as 6th ID commander before he was designated commander of the
 
 Datu Blah Sinsuat, which is in the west of Maguindanao del Norte and has 13 seaside barangays, is also tagged as the new investment hub in the province owing to its having had an almost zero crime record in the past seven years.
 
-The mayor of Datu Blah Sinsuat, Raida Tomawis-Sinsuat, is the presiding chairperson of their multi-sector municipal peace and order council, whose members include leaders of the Muslim, Christian and the indigenous non-Moro Tedurays in the municipality.
+The mayor of Datu Blah Sinsuat, Raida Tomawis-Sinsuat, is the presiding chairperson of their multi-sector municipal peace and order council, whose members include leaders of the Muslim, Christian and the indigenous Teduray communities in the municipality.
