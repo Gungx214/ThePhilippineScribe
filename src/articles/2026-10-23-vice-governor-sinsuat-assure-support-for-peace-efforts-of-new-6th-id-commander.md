@@ -1,7 +1,7 @@
 ---
 layout: layouts/article.njk
 image: /images/uploads/862319918_1722227912204628_8678387227698457718_n.jpg
-title: Vice Governor Sinsuat assure support for peace efforts of new 6th ID commander
+title: Vice. Gov. Sinsuat to support  peace efforts of new 6th ID commander
 dek: Maguindanao Vice Gov. Marshall Sinsuat and Brig. Gen. Edgar Catu have been
   cooperating on community peace initiatives long before his assumption on
   Thursday as commander of the Army’s 6th Infantry Division.
