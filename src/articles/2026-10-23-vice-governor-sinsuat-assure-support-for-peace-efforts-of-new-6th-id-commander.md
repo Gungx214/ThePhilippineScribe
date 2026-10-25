@@ -8,7 +8,7 @@ dek: Maguindanao Vice Gov. Marshall Sinsuat and Brig. Gen. Edgar Catu have been
 location: Cotabato City
 date: 2026-10-23T10:55:00.000+08:00
 ---
-COTABATO CITY, Philippines --- Maguindanao del Norte Vice Gov. Marshall Sinsuat on Thursday assured of his support for the peacebuilding activities and the civil-military relations initiatives of the new commander of the 6th Infantry Division, Brig. Gen. Edgar Catu.
+**COTABATO CITY, Philippines** --- Maguindanao del Norte Vice Gov. Marshall Sinsuat on Thursday assured of his support for the peacebuilding activities and the civil-military relations initiatives of the new commander of the 6th Infantry Division, Brig. Gen. Edgar Catu.
 
 Catu was installed as 6th ID's commander on Thursday morning by the Philippine Army’s commander, Lt. Gen. Donald Gumiran, via a traditional military unit leadership transition rite at Camp Siongco in Datu Odin Sinsuat, Maguindanao del Norte, replacing Brig. Ricky Bunayog, who was the division’s acting commander for about three months.
 
