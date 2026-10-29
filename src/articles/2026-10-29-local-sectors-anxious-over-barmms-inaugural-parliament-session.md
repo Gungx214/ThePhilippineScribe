@@ -7,7 +7,7 @@ dek: Soldiers patrol at a stretch of the thoroughfare towards the Bangsamoro
 location: COTABATO CITY
 date: 2026-10-29T16:07:00.000+08:00
 ---
-COTABATO CITY --- All is set for the inaugural session of the 80-seat parliament of the Bangsamoro Autonomous Region in Muslim Mindanao on Friday, October 30, in BARMM's capitol here, now guarded by no fewer than a thousand policemen and soldiers.
+**COTABATO CITY** --- All is set for the inaugural session of the 80-seat parliament of the Bangsamoro Autonomous Region in Muslim Mindanao on Friday, October 30, in BARMM's capitol here, now guarded by no fewer than a thousand policemen and soldiers.
 
 Talks are circulating here and in BARMM provinces stating that President Ferdinand Marcos, Jr. will attend the session of the 80-newly-elected lawmakers.
 
