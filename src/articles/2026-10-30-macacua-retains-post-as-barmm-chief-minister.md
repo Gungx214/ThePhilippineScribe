@@ -1,7 +1,7 @@
 ---
 layout: layouts/article.njk
 image: /images/uploads/879855644_1138120455337627_6546116666425295053_n.jpg
-title: .Macacua retains post as BARMM chief minister
+title: Macacua retains post as BARMM chief minister
 dek: Chief Minister Abdulrauf Macacua, as figurehead of the Bangsamoro
   parliament, shall also oversee all ministries and support agencies of the
   autonomous regional government.
