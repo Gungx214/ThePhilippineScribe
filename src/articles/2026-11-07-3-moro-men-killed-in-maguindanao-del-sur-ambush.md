@@ -5,7 +5,7 @@ title: 3 Moro men killed in Maguindanao del Sur ambush
 dek: The ambushers who killed three men in an attack on Saturday in Mamasapano,
   Maguindanao del Sur had escaped before responding barangay officials and
   volunteer community watchmen could reach the scene.
-location: DAVAO CITY
+location: COTABATO CITY
 date: 2026-11-07T19:20:00.000+08:00
 ---
 **COTABATO CITY** --- Three men, two of them members of the Citizens Armed Forces Geographic Unit, were killed in an ambush in Barangay Manungkaling in Mamasapano, Maguindanao del Sur del Sur on Saturday morning, November 7.
