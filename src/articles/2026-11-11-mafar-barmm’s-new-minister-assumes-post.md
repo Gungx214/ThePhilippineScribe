@@ -4,8 +4,8 @@ image: /images/uploads/897371160_1440342157630459_8666365273870761647_n.jpg
 title: MAFAR-BARMM’s new minister assumes post
 dek: Maguindanao Vice Gov. Marshall Sinsuat, Bangsamoro Senior Minister Abunawas
   Maslamama and the autonomous region’s new agriculture minister, Ishak Mastura
-  (right), all promised to cooperate furthering the anti-poverty programs of the
-  Bangsamoro regional government.
+  (right), all promised to cooperate in furthering the anti-poverty programs of
+  the Bangsamoro regional government.
 location: Cotabato City
 date: 2026-11-11T17:54:00.000+08:00
 ---
