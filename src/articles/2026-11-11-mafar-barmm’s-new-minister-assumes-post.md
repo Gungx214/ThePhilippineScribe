@@ -9,7 +9,7 @@ dek: Maguindanao Vice Gov. Marshall Sinsuat, Bangsamoro Senior Minister Abunawas
 location: Cotabato City
 date: 2026-11-11T17:54:00.000+08:00
 ---
-COTABATO CITY --- Local executives in two Bangsamoro provinces and members of the parliament in the autonomous region assured on Tuesday, November 10, to continue supporting the pro-poor programs of their agriculture ministry with a new minister now at its helm.
+**COTABATO CITY** --- Local executives in two Bangsamoro provinces and members of the parliament in the autonomous region assured on Tuesday, November 10, to continue supporting the pro-poor programs of their agriculture ministry with a new minister now at its helm.
 
 An elected member of the Bangsamoro parliament, the lawyer Ishak Mastura, assumed on Tuesday as minister of the Ministry of Agriculture, Fisheries and Agrarian Reform-Bangsamoro Autonomous Region (MAFAR-BARMM) during a symbolic rite at its main office in Cotabato City on Tuesday, attended by his relatives, colleagues in the 80-seat lawmaking body and his predecessor, Abunawas Maslamama.
 
