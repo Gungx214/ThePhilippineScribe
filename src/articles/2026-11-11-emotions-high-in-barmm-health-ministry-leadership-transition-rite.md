@@ -9,7 +9,7 @@ dek: The newly-appointed Bangsamoro health minister, Jay Salliman (second from
 location: COTABATO CITY
 date: 2026-11-11T18:45:00.000+08:00
 ---
-COTABATO CITY  --- Hundreds of Bangsamoro health ministry employees bade their outgoing minister an emotional goodbye on Wednesday, November 11, and promised to support his successor in managing efficiently all of the medical service programs they have pioneered, as a big team, in recent years.
+**COTABATO CITY**  --- Hundreds of Bangsamoro health ministry employees bade their outgoing minister an emotional goodbye on Wednesday, November 11, and promised to support his successor in managing efficiently all of the medical service programs they have pioneered, as a big team, in recent years.
 
 The physician-ophthalmologist Kadil Sinolinding, Jr., who started as regional health secretary of the now defunct Autonomous Region in Muslim Mindanao prior to his assumption as minister of the Ministry of Health in the Bangsamoro Autonomous Region in Muslim Mindanao, turned over his post to a successor, the lawyer Jay Salliman Datumanong during during a symbolic rite in Cotabato City on Wednesday morning.
 
