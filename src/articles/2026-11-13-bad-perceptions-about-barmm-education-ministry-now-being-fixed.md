@@ -1,7 +1,7 @@
 ---
 layout: layouts/article.njk
 image: /images/uploads/72973fb5-b017-406a-81d9-063e1badbdb1.jpg
-title: Bad perceptions about BARMM education ministry now being fixed
+title: Negative impressions about BARMM education ministry now being fixed
 dek: One of the 80 members of the Bangsamoro parliament, Naguib Sinarimbo,
   assumed as appointed education minister of the autonomous region last week.
 location: COTABATO CITY
