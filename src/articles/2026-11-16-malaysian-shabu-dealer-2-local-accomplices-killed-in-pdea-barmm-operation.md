@@ -9,7 +9,7 @@ dek: The shabu seized in an entrapment operation in Barangay Tubig Mampalam in
 location: COTABATO CITY
 date: 2026-11-17T07:32:00.000+08:00
 ---
-COTABATO CITY --- Anti-narcotics agents had seized two kilos of shabu from a Malaysian national and his two local accomplices killed on Sunday in an entrapment operation in Barangay Tubig Mampalam in Bongao, Tawi-Tawi that turned haywire.
+**COTABATO CITY** --- Anti-narcotics agents had seized two kilos of shabu from a Malaysian national and his two local accomplices killed on Sunday in an entrapment operation in Barangay Tubig Mampalam in Bongao, Tawi-Tawi that turned haywire.
 
 Local executives and members of the multi-sector Tawi-Tawi Provincial Peace and Order Council, whose chairperson is Gov. Ysmael Sali, confirmed to reporters on Monday that the incident left the Malaysian Janimal Bin Hajad, Sansibar Amil Amirul and Alma Sarikin Amirul dead.
 
