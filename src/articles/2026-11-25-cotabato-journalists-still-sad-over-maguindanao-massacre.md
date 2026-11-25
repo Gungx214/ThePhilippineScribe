@@ -1,6 +1,6 @@
 ---
 layout: layouts/article.njk
-image: /images/uploads/648c1786-385e-4c60-a8e7-413684ca0727.jpg
+image: /images/uploads/0c5d16d1-e9bb-4e53-afda-676bdd95cd9a.jpg
 title: "Cotabato journalists still sad over Maguindanao Massacre "
 dek: Journalists from across Cotabato City, capital of the Bangsamoro region,
   together commemorated the 17th anniversary of the Maguindanao Massacre on
