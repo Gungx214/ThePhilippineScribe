@@ -1,6 +1,6 @@
 ---
 layout: layouts/article.njk
-image: /images/uploads/f9676ba3-0228-4341-b189-99aa2f11da1d.jpg
+image: /images/uploads/0445d7e4-c65f-4baf-beb7-6274f6e025a8.jpg
 title: BARMM earmarks P340-M for 2027 schools meals program
 dek: Bangsamoro Education Minister Naguib Sinarimbo (left) was the
   representative of the autonomous regional government to the three-day 2nd
